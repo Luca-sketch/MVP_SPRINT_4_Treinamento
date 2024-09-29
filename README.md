@@ -17,3 +17,9 @@ O projeto está dividido em três repositórios e um vídeo explicativo:
 - [MVP_SPRINT_4_Back-end](https://github.com/Luca-sketch/MVP_SPRINT_4_Back-End.git): Implementa a API em Flask que carrega o modelo treinado e realiza as predições de churn.
 - [MVP_SPRINT_4_FRONT_END](https://github.com/Luca-sketch/MVP_SPRINT_4_Front-End.git): Interface frontend para inserir novos dados e exibir as predições geradas pelo backend.
 - [Vídeo](https://drive.google.com/file/d/1HQgQcQTmpStFg4wwNPHoap9S59pVbp0I/view?usp=drive_link): Vídeo com a explicação do projeto.
+
+## Como executar
+
+1- Selecione o arquivo que contém o notebook
+2- Abra o arquivo utilizando o google Colab
+3-
