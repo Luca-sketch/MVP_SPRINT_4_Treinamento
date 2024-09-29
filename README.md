@@ -7,7 +7,7 @@ Este repositório contém o notebook que realiza o treinamento de um modelo de m
 ## Conteúdo do Repositório
 
 - Notebook do treinamento(PUC_MVP_Cancelamento_Cliente): Contém o código para carregamento, pré-processamento, modelagem e avaliação do modelo.
-- DataSet(WA_Fn-UseC_-Telco-Customer-Churn): Com os dados utilizados no treinamento
+- Dataset(WA_Fn-UseC_-Telco-Customer-Churn): Dados utilizados no treinamento
 
 ## Estrutura do Projeto
 
