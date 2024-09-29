@@ -22,4 +22,6 @@ O projeto está dividido em três repositórios e um vídeo explicativo:
 
 1. Selecione o arquivo que contém o notebook
 2. Abra o arquivo utilizando o google Colab
-3. Os ultimos blocos do treinamento possibilitam baixar o arquivo pkl para ser utilizado em outras aplicações.
+
+![Treinamento](https://drive.google.com/uc?export=view&id=1wpQ6puSCEpg0JwjUY-8MGDwDKSvS7UxX)
+
